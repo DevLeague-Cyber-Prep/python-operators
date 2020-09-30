@@ -1,6 +1,6 @@
 #Declare two variables num1 and num2 and assign it a number value of your choosing.
-num1 = 8
-num2 = 3
+num1 =int(input("Enter Any Number:"))
+num2 =int(input("Enter Any Number:")) 
 
 #1. Addition
 #Add the two variables and store it to a new variable named total.
